@@ -108,6 +108,108 @@ C. Security controls for blockchain instances
 
 (e) Protection of audit information	
 
+**C.5 Security assessment and authorization**
+
+(a) Security assessment and authorization policy and procedures	
+
+(b) Security assessments	
+
+(c) System interconnections	
+
+(d) Continuous monitoring	
+
+(e) Penetration testing	
+
+(f) Internal system connections	
+
+**C.6 Contingency planning**	
+
+(a) Contingency planning policy and procedures	
+
+(b) Contingency plan	
+
+(c) Contingency training	
+
+(d) Contingency plan testing	
+
+(e) Alternate storage site	
+
+(f) Alternate processing site	
+
+(g) Telecommunications services	
+
+(h) Information system recovery and reconstitution	
+
+**C.7 Incident response**	
+
+(a) Incident response policy and procedures	
+
+(b) Incident response training	
+
+(c) Incident response testing	
+
+(d) Incident handling	
+
+(e) Incident Monitoring	
+
+(f) Incident reporting	
+
+(g) Incident response assistance	
+
+(h) Incident response plan	
+
+(i) Information spillage response	
+
+(j) Integrated information security analysis team	
+
+
+**C.8 Maintenance**
+
+(a) System maintenance policy and procedures	
+
+
+**C.9 Physical and environmental protection**	
+
+(a) Physical and environmental protection policy and procedures	
+
+(b) Physical access authorizations	
+
+(c) Physical access control	
+
+
+**C.10 Risk assessment**	
+
+(a) Risk assessment policy and procedures	
+
+(b) Risk assessment	
+
+(c) Vulnerability scanning	
+
+(d) Insider threat program	
+
+(e) Contacts with security groups and associations	
+
+(f) Threat awareness program	
+
+**C.11 Blockchain Integrity**
+
+(a) Blockchain integrity policy and procedures	
+
+(b) Flaw remediation	
+
+(c) Malicious code protection	
+
+(d) Blockchain monitoring	
+
+(e) Security alerts, advisories, and directives	
+
+(f) Security function verification	
+
+(g) Software, firmware, and information integrity	
+
+D. Security recommendations for other Blockchain components	
+
+E. References and contact information	
 
 Reference list
 ---------------
