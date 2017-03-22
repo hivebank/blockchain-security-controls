@@ -4,8 +4,6 @@ Blockchain technology was announced through the paper titled "Bitcoin: A Peer-to
 
 This paper talks about a "purely peer-to-peer version of electronic cash" where "the network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work". 
 
-Blockchain technology and some implementations of distributed ledger technology have earned the trust of Governments and banks around the world. There is an urgent need for an accepted security framework for secure blockchain implementations.  The PT-BSC is a work-in-progress document that prescribes security controls for blockchain implementations. Many of the security controls are based on NIST Special Publication 800-53 Revision 4 and may also apply to distributed ledger systems.
-
 A.1 Definitions
 ---------------
 PT-BSC defines the terms blockchain, distributed ledger system and hash function.
