@@ -213,7 +213,7 @@ D. Security recommendations for other Blockchain components
 E. References and contact information	
 ------------------
 
-Reference list
+List of blockchain / distributed ledger systems
 ===============
 A non-exhaustive list of blockchain / distributed ledger systems (in alphabetical order) is provided below for reference:
 
