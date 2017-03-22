@@ -208,11 +208,13 @@ C. Security controls for blockchain instances
 (g) Software, firmware, and information integrity	
 
 D. Security recommendations for other Blockchain components	
+------------------
 
 E. References and contact information	
+------------------
 
 Reference list
----------------
+===============
 A non-exhaustive list of blockchain / distributed ledger systems (in alphabetical order) is provided below for reference:
 
 1. <a href="https://www.bigchaindb.com/">BigChainDB</a>
@@ -232,7 +234,7 @@ A non-exhaustive list of blockchain / distributed ledger systems (in alphabetica
 15. <a href="https://www.stellar.org/">Stellar</a>
 
 Contributors
--------------
+=================
 A non-exhaustive list of contributors:
 
 * Rohas Nagpal (rohas@primechain.in)
