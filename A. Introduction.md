@@ -1,4 +1,4 @@
-A Introduction
+A. Introduction
 ---------------
 Blockchain technology was announced through the paper titled "Bitcoin: A Peer-to-Peer Electronic Cash System" by Satoshi Nakamoto in 2008. Interestingly, this paper does not specifically use the word "blockchain". 
 
