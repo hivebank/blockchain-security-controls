@@ -239,6 +239,6 @@ A non-exhaustive list of contributors:
 
 * Rohas Nagpal (rohas@primechain.in)
 * Sudin Baraokar (HEAD.SBICIC@sbi.co.in)
-* Shinam Arora (rohas@primechain.in)
+* Shinam Arora (shinam@primechain.in)
 * Debasis Nayak (dn@asianlaws.org)
 * Sripathi Srinivasan (sripathi@primechain.in)
